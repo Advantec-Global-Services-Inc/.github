@@ -1,4 +1,4 @@
-# Advantec Global Services, Inc.
+# Advantec Global Services, Inc
 
 **Enterprise IT, delivered without drama.**
 
