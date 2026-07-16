@@ -1,4 +1,9 @@
-# Advantec Global Services, Inc
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/advantec-logo-dark.png">
+    <img alt="Advantec Global Services" src="assets/advantec-logo-light.png" width="360">
+  </picture>
+</p>
 
 **Enterprise IT, delivered without drama.**
 
